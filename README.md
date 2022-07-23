@@ -51,8 +51,15 @@ If you prepare the three file,you can analysis by follow command
 $ python plot.py --barcodes_df=genelist.csv --taglist_df=taglist.csv --node_embedding=node_embedding.npy
 ```
 
-This script will generate three png. 
-![gene.png](https://github.com/yangfeizZZ/spage2vec/blob/main/example/gene.png) ;
-![embebding_spot.png](https://github.com/yangfeizZZ/spage2vec/blob/main/example/embebding_right_spot.png) ;
-![jubu.png](https://github.com/yangfeizZZ/spage2vec/blob/main/example/jubu.png)
-![fangda.png](https://github.com/yangfeizZZ/spage2vec/blob/main/example/fangda.png)
+This script will generate four png. 
+### gene.png
+![](https://github.com/yangfeizZZ/spage2vec/blob/main/example/gene.png)
+
+### embebding_spot.png
+![](https://github.com/yangfeizZZ/spage2vec/blob/main/example/embebding_right_spot.png)
+
+### jubu.png
+![](https://github.com/yangfeizZZ/spage2vec/blob/main/example/jubu.png)
+
+### fangda.png
+![](https://github.com/yangfeizZZ/spage2vec/blob/main/example/fangda.png)
